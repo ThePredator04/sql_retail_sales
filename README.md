@@ -9,7 +9,7 @@ This project showcases my SQL expertise and demonstrates techniques commonly use
 
 ## Objectives
 
-1. **Set up a retail sales database**:Set Up Retail Sales Database: Design and populate a retail sales database using the provided sales data.
+1. **Set up a retail sales database**:Design and populate a retail sales database using the provided sales data.
 2. **Data Cleaning**: Identify and address missing or null values to ensure data quality and reliability.
 3. **Exploratory Data Analysis (EDA)**:Perform an initial exploration of the dataset to uncover trends, patterns, and anomalies. .
 4. **Business Analysis**: Utilize SQL queries to answer targeted business questions and extract actionable insights from the sales data.
