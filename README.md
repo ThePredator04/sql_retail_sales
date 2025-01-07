@@ -202,7 +202,3 @@ GROUP BY shift
 ## Conclusion
 
 This project focuses on utilizing SQL for data analysis, encompassing database setup, data cleaning, exploratory data analysis, and crafting business-driven SQL queries. The insights derived from this project aim to support data-driven decision-making by uncovering sales patterns, customer behavior, and product performance.
-
-## Author - ThePredator
-
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
